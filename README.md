@@ -1,10 +1,9 @@
 ### Hi there 👋
-大家好，我是程灵飞，目前是FZU的一名大学生~<br/>  
-会C、C++、Python、Java等几门大众编程语言~<br/>  
+大家好，本 githuber 目前是 FZU 的一名大学生~<br/>  
+会 C、C++、Python 等几门大众编程语言~<br/>  
 说不上精通，但是我一定会慢慢补足自己的空白~<br/>  
 如果想对我提出一些建议和意见欢迎联系我嗷~<br/>  
-我的 QQ 是 1529760075 ，邮箱为 1529760075@qq.com~<br/>  
-"Talk is cheap, show me your code"<br/>  
+我的 QQ 是 1529760075 ，邮箱为 1529760075@qq.com~<br/>   
 "Hair is cheap, show me your code"<br/>  
 
 <!--
