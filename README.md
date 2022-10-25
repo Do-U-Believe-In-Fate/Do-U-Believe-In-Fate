@@ -1,10 +1,9 @@
-### Hi there 👋
-大家好，本 githuber 目前是大学生<br/>  
-会 C、C++、Python 等几门大众编程语言<br/>  
-说不上精通，但是我一定会慢慢补足自己的空白<br/>  
-如果想对我提出一些建议和意见欢迎联系我嗷<br/>  
-我的 QQ 是 1529760075 ，邮箱为 1529760075@qq.com<br/>   
-"Hair is cheap, show me your code"<br/>  
+### Hi👋
+One graduate student here<br/>  
+Tech: C, C++, Python, Go(ing), Rust(ing)<br/>
+contact me as following: <br/>
+QQ: 1529760075, email: 1529760075@qq.com/chenglingfeii@gmail.com<br/>   
+"Chase your own codes and ideas. "<br/>  
 
 <!--
 **Do-U-Believe-In-Fate/Do-U-Believe-In-Fate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
