@@ -2,7 +2,7 @@
 One graduate student here<br/>  
 Tech: C, C++, Python, Go(ing), Rust(ing)<br/>
 contact me as following: <br/>
-QQ: 1529760075, email: 1529760075@qq.com/chenglingfeii@gmail.com<br/>   
+email: 1529760075@qq.com/chenglingfeii@gmail.com<br/>   
 "Chase your own codes and ideas. "<br/>  
 
 <!--
